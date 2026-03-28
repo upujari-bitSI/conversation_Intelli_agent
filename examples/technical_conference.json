@@ -1,0 +1,92 @@
+{
+  "scenario": "Technical Conference - AI in Healthcare, Serious Tone",
+  "input": {
+    "topic_category": "technology",
+    "custom_topic": "Artificial Intelligence in Healthcare",
+    "audience_type": "technical",
+    "tone": "serious",
+    "context": "conference",
+    "user_role": "speaker",
+    "audience_size": 200
+  },
+  "expected_output": {
+    "opening_lines": [
+      "Good morning. In the next 30 minutes, I want to challenge how we think about AI's role in patient outcomes.",
+      "Before we begin — how many of you have encountered an AI-driven diagnostic tool in your practice?",
+      "The gap between AI research and clinical deployment is narrowing faster than most of us anticipated."
+    ],
+    "topic_flow": [
+      "Current state of AI in healthcare: from radiology to drug discovery",
+      "Key breakthroughs in 2024-2025: multimodal diagnostic models",
+      "Real-world deployment challenges: data privacy, bias, and regulatory hurdles",
+      "Case study: AI-assisted early cancer detection at Mayo Clinic",
+      "The clinician-AI partnership model vs. full automation",
+      "Ethical considerations and patient trust",
+      "What's next: personalized medicine and predictive healthcare"
+    ],
+    "questions": [
+      "What regulatory frameworks do you think are most critical for AI in healthcare?",
+      "Has anyone here integrated AI tools into their clinical workflow? What was the biggest challenge?",
+      "Do you believe AI should augment or replace certain diagnostic processes?",
+      "What's the most promising AI healthcare application you've seen this year?",
+      "How do we address the 'black box' problem in clinical AI decision-making?"
+    ],
+    "reactions": {
+      "agreement": [
+        "That aligns with recent data from the WHO's AI health initiative.",
+        "Exactly — and the evidence base is growing rapidly on this point.",
+        "I'm glad you raised that. Let me show the supporting data."
+      ],
+      "disagreement": [
+        "That's a valid concern. Let's examine the counter-evidence.",
+        "I appreciate the pushback — this is precisely the debate the field needs.",
+        "Fair point. The data isn't conclusive yet, and here's why that matters."
+      ],
+      "silence": [
+        "This is a complex topic — let me reframe it with a concrete example.",
+        "I see some thoughtful expressions. Let me break this down further.",
+        "Here's a scenario that might make this more tangible."
+      ],
+      "confusion": [
+        "Let me simplify: think of this like spell-check, but for medical imaging.",
+        "Good question implied there — let me clarify the distinction.",
+        "I'll step back and walk through the fundamentals before we continue."
+      ]
+    },
+    "engagement_strategies": [
+      "Open with a live poll: 'What percentage of diagnostic errors do you think AI could prevent?'",
+      "Reference a recent NEJM publication the audience likely read",
+      "Use a before/after case study with visual imaging comparison",
+      "Invite a brief 60-second discussion with your neighbor at a key inflection point",
+      "Close with a provocative prediction and ask for a show of hands"
+    ],
+    "fun_elements": [
+      "Show a humorous AI-generated misdiagnosis to illustrate why human oversight matters",
+      "Quick trivia: 'In what year was the first AI used in medical diagnosis?' (1970s — MYCIN)"
+    ],
+    "facts": [
+      "AI can analyze medical images up to 1,000x faster than human radiologists",
+      "The global AI in healthcare market is projected to reach $187 billion by 2030",
+      "Google DeepMind's AlphaFold has predicted structures of 200M+ proteins",
+      "FDA has approved over 800 AI/ML-enabled medical devices as of 2025",
+      "AI-assisted diagnostic tools have shown up to 94% accuracy in detecting certain cancers"
+    ],
+    "recent_topics": [
+      "FDA's new framework for AI-based Software as a Medical Device (SaMD)",
+      "GPT-4 passing medical licensing exams with near-expert performance",
+      "Wearable AI health monitoring advances in 2025",
+      "NHS digital health transformation with AI triage systems"
+    ],
+    "transition_phrases": [
+      "Now that we've covered the landscape, let's zoom into a specific breakthrough.",
+      "This naturally leads us to the question of deployment challenges.",
+      "With that context in mind, consider this real-world case.",
+      "Building on that insight, let's explore the ethical dimension."
+    ],
+    "poll_ideas": [
+      "Show of hands: Who believes AI will be standard in diagnostics within 5 years?",
+      "Quick poll: What's the biggest barrier — data quality, regulation, or trust?",
+      "Raise your hand if your organization has an AI strategy for healthcare"
+    ]
+  }
+}
