@@ -1,0 +1,88 @@
+{
+  "scenario": "Networking Event - Unknown Audience, Business Topic",
+  "input": {
+    "topic_category": "business",
+    "audience_type": "unknown",
+    "tone": "networking",
+    "context": "meeting",
+    "user_role": "attendee",
+    "location": "New York"
+  },
+  "expected_output": {
+    "opening_lines": [
+      "Hi, I don't think we've met — I'm [name]. What brings you to this event?",
+      "This is a great turnout. Have you been to events like this in New York before?",
+      "I was just grabbing coffee and thought I'd introduce myself. What industry are you in?"
+    ],
+    "topic_flow": [
+      "Warm introduction and mutual context discovery",
+      "Industry trends and shared professional interests",
+      "New York business scene — local insights and opportunities",
+      "Challenges and opportunities in current market conditions",
+      "Collaboration possibilities and shared connections",
+      "Exchange contact info and suggest a follow-up"
+    ],
+    "questions": [
+      "What's the most exciting project you're working on right now?",
+      "How has the New York market been for your industry this year?",
+      "What's one trend in your field that you think is underrated?",
+      "What brought you to this event specifically?",
+      "If you could solve one problem in your industry, what would it be?"
+    ],
+    "reactions": {
+      "agreement": [
+        "Absolutely — I've been seeing the same trend. How are you positioning for it?",
+        "We're on the same page. I'd love to continue this conversation over coffee.",
+        "That resonates with what I've been hearing from others in the space."
+      ],
+      "disagreement": [
+        "Interesting take — I've seen it play out differently. What's driving your perspective?",
+        "That's a different angle. I'd love to hear more about your experience with it.",
+        "Fair point. The market's been unpredictable, and different sectors see it differently."
+      ],
+      "silence": [
+        "I realize that was a big question. What's top of mind for you lately?",
+        "Let me put it this way — what's keeping you up at night professionally?",
+        "Sometimes the best networking happens in comfortable silence. But also — what do you do?"
+      ],
+      "confusion": [
+        "Let me back up — I was speaking in industry jargon. In simpler terms...",
+        "Here's a concrete example that might illustrate what I mean.",
+        "Good question on your face! Let me rephrase that."
+      ]
+    },
+    "engagement_strategies": [
+      "Ask about their journey — people love sharing their story",
+      "Find a mutual connection or shared experience quickly",
+      "Reference something specific about the event or venue",
+      "Offer value first — share a useful insight or introduction",
+      "Use the 'FORD' technique: Family, Occupation, Recreation, Dreams"
+    ],
+    "fun_elements": [
+      "Mention a fun NYC-specific anecdote: 'Only in New York do you network in line for pizza'",
+      "Light observation about the event: 'I think the coffee here is the real networking tool'"
+    ],
+    "facts": [
+      "80% of professionals say networking is vital to career success",
+      "New York City has over 230,000 small businesses",
+      "The average professional has 630 LinkedIn connections but actively networks with fewer than 30",
+      "Follow-up within 48 hours increases the chance of a lasting connection by 80%"
+    ],
+    "recent_topics": [
+      "NYC's growing tech and AI startup ecosystem",
+      "Remote vs. hybrid work trends in New York companies",
+      "Recent major business events and conferences in the city",
+      "New York's role in fintech and financial innovation"
+    ],
+    "transition_phrases": [
+      "That reminds me of something I read recently about the NYC market...",
+      "On a related note, have you noticed the shift toward...",
+      "I'd love to get your take on something else — ",
+      "Before I forget — let me connect you with someone here who works in..."
+    ],
+    "poll_ideas": [
+      "If in a group: 'Quick — who here has been to a networking event that actually changed their career?'",
+      "Informal poll: 'What's everyone's prediction for the biggest industry shift next year?'"
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "scenario": "Family Gathering - Casual, Funny Tone",
+  "input": {
+    "topic_category": "personal_social",
+    "audience_type": "family",
+    "tone": "funny",
+    "context": "party",
+    "duration_minutes": 60
+  },
+  "expected_output": {
+    "opening_lines": [
+      "So... who's ready to argue about something completely unimportant?",
+      "I've been saving up conversation topics all week. You're welcome.",
+      "Before anyone asks — yes, I'm fine. No, I'm not seeing anyone. Now that that's out of the way..."
+    ],
+    "topic_flow": [
+      "The classic catch-up: What's everyone been up to? (2-minute version, please)",
+      "Family trivia: Who can remember the most embarrassing vacation moment?",
+      "The great debate: best family recipe of all time",
+      "Upcoming plans and events to look forward to",
+      "Remember when... — nostalgic family stories",
+      "What's one new thing you've tried recently?"
+    ],
+    "questions": [
+      "If our family had a reality show, what would it be called?",
+      "What's the weirdest thing you've Googled this month?",
+      "If you could swap lives with another family member for a day, who and why?",
+      "What's a skill you've secretly been trying to learn?",
+      "Who in this room would survive a zombie apocalypse the longest?"
+    ],
+    "reactions": {
+      "agreement": [
+        "See? I always knew I was the smart one!",
+        "Finally, someone gets it. I'm framing this moment.",
+        "We should agree more often — this feels nice!"
+      ],
+      "disagreement": [
+        "Well, that's what makes family dinners interesting!",
+        "I respect your wrong opinion. Love you anyway!",
+        "We'll settle this the old-fashioned way — arm wrestling."
+      ],
+      "silence": [
+        "Wow, I actually stumped everyone. New family record!",
+        "Is this silence agreement or are you all on your phones?",
+        "Okay, I'll answer my own question. Someone has to keep this party going."
+      ],
+      "confusion": [
+        "Don't worry, I confused myself too. Let me try again.",
+        "That made more sense in my head. Version 2.0 coming up!",
+        "You know what, let's just eat instead."
+      ]
+    },
+    "engagement_strategies": [
+      "Start a 'two truths and a lie' round — family edition",
+      "Create a family superlatives game (most likely to...)",
+      "Have everyone share their phone's last photo and explain it",
+      "Do a quick 'unpopular opinions' round",
+      "Play 'finish the family story' where each person adds a sentence"
+    ],
+    "fun_elements": [
+      "Challenge: everyone does their best impression of another family member",
+      "Family bingo: 'Who said it?' with classic family quotes",
+      "Award fake trophies: 'Most Likely to Fall Asleep on the Couch'"
+    ],
+    "facts": [
+      "The average family dinner conversation lasts only 20 minutes",
+      "Laughing together strengthens family bonds — it releases oxytocin",
+      "Families who eat together regularly report 24% higher likelihood of eating healthy"
+    ],
+    "recent_topics": [
+      "Trending TV shows everyone's watching",
+      "Viral social media challenges to try together",
+      "New restaurants or travel spots worth checking out"
+    ],
+    "transition_phrases": [
+      "Speaking of embarrassing... who remembers the time...",
+      "Okay, new topic before this becomes a therapy session.",
+      "On a completely unrelated note...",
+      "Now that we've solved that problem, let's create a new one."
+    ],
+    "poll_ideas": [
+      "Hands up: who thinks grandma's cookies are better than store-bought? (Trick question)",
+      "Vote: What should we do for the next family get-together?",
+      "Quick show of hands: who's already tired? Be honest."
+    ]
+  }
+}
